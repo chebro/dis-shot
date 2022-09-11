@@ -1,7 +1,7 @@
 DIS-SHOT
 ========
 
-upload screenshots to discord with a keybind. depends on discord.js for all things discord related. and uses maim (xorg screenshot tool).
+upload screenshots to discord with a keybind. depends on discord.js for all things discord related. uses maim (xorg screenshot tool) for taking screenshots.
 
 
 INSTRUCTIONS
