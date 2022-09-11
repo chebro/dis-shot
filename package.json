@@ -1,0 +1,14 @@
+{
+  "name": "dis-shot",
+  "version": "1.0.0",
+  "description": "dis-shot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Sravanth C.",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.3.0"
+  }
+}

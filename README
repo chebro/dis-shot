@@ -1,0 +1,15 @@
+DIS-SHOT
+========
+
+upload screenshots to discord with a keybind. depends on discord.js for all things discord related. and uses maim (xorg screenshot tool).
+
+
+INSTRUCTIONS
+============
+
+create a file named shot.png in the root dir. the program watches this file and uploads it to discord when the file is modified.
+
+config.json specifies the channel to upload images to.
+
+screenshot.sh takes a new screenshot and saves it to shot.png. this script should ideally bind to some keyboard shortcut.
+
